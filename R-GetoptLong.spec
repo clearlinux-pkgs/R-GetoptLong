@@ -4,7 +4,7 @@
 #
 Name     : R-GetoptLong
 Version  : 1.0.5
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/GetoptLong_1.0.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/GetoptLong_1.0.5.tar.gz
 Summary  : Parsing Command-Line Arguments and Simple Variable Interpolation
